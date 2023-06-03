@@ -1,6 +1,8 @@
 # Example of my Pixel Perfect Landing Page for different devices
 
-## deployment:
+## View deployment: 
+
+https://nemesisua.github.io/pixel-perfect-adaptive-mobile-laptop-desktop/
 
 ## Requirements:
 •	The **```@media```** query breakpoints that are used in the example:
